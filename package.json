@@ -1,0 +1,13 @@
+{
+  "name": "playwright-cli-demo",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:debug": "playwright test --debug=cli"
+  },
+  "devDependencies": {
+    "@mermaid-js/mermaid-cli": "^11.16.0",
+    "@playwright/test": "^1.62.1",
+    "md-to-pdf": "^5.2.5"
+  }
+}

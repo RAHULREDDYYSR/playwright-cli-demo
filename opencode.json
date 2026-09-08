@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "permission": {
+    "bash": {
+      "playwright-cli *": "allow",
+      "npx *": "allow",
+      "npm *": "allow"
+    }
+  }
+}
